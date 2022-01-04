@@ -16,7 +16,8 @@ h1{
     color: rgb(248, 182, 15);
 }
 section{
-   display: flex; 
+   display: flex;
+   margin-bottom: 15vh; 
 }
 
 .half-width{
@@ -28,6 +29,7 @@ section{
 }
 .half-width p{
     text-align: justify;
+    /* font-family: 'Roboto', sans-serif; */
 }
 .link-button{
     text-decoration: none;
@@ -44,3 +46,15 @@ section{
     background-repeat: no-repeat;
 }
 /* Top Banner ends here */
+
+/* Dream Big strats here */
+.dream-big{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* Dream Big ends here */
+
+/* Experience starts here */
+
+/* Experience ends here */
